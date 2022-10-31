@@ -1,1 +1,3 @@
 # Crowdfunding-ETL
+
+A new dataset comprised of information regarding the backers who have pledged to live projects was obtained. Python, Pandas, and Jupyter notebooks were used to extract and transform the data into backers_info.csv and backers.csv files. This was then loaded into an SQL database so analysis could be completed. The goal was to determine how much funding remained to inform the contacts for each crowdfunding campaign how much further they have to go as well as to contact the backers to update how much there is to go for campaigns they have pledged to. 
